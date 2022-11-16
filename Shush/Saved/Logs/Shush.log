@@ -1095,3 +1095,25 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.11.16-12.35.21:362][235]LogContentValidation: Display: Validating Blueprint /Game/VRCharacter.VRCharacter
 [2022.11.16-12.35.21:362][235]LogContentValidation: Display: Validating Blueprint /Game/GrabInterface.GrabInterface
 [2022.11.16-12.35.21:362][235]LogContentValidation: Display: Validating Blueprint /Game/GrabbaleActor.GrabbaleActor
+[2022.11.16-12.40.20:098][741]BlueprintLog: New page: Compile VRCharacter
+[2022.11.16-12.40.20:102][741]LogBlueprint: Error: [AssetLog] V:\github\ShushNew\Shush\Content\VRCharacter.uasset: [Compiler] Message node  Release  must have a valid target or reference to self.
+[2022.11.16-12.40.20:185][741]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2022.11.16-12.40.45:531][977]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2022.11.16-12.40.45:533][977]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/VRTemplateMap' took 0.050
+[2022.11.16-12.40.45:533][977]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VRCharacter] ([2] browsable assets)...
+[2022.11.16-12.40.45:533][977]OBJ SavePackage: Finished generating thumbnails for package [/Game/VRCharacter]
+[2022.11.16-12.40.45:533][977]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRCharacter" FILE="V:/github/ShushNew/Shush/Saved/Autosaves/Game/VRCharacter_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2022.11.16-12.40.45:548][977]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VRCharacter_Auto2
+[2022.11.16-12.40.45:548][977]LogSavePackage: Moving 'V:/github/ShushNew/Shush/Saved/VRCharacter_Auto2A9CCA4CB472B20CBF8A3039F0630AB69.tmp' to 'V:/github/ShushNew/Shush/Saved/Autosaves/Game/VRCharacter_Auto2.uasset'
+[2022.11.16-12.40.45:549][977]LogFileHelpers: Auto-saving content packages took 0.016
+[2022.11.16-12.40.48:753][987]BlueprintLog: New page: Compile VRCharacter
+[2022.11.16-12.40.48:759][987]LogBlueprint: Error: [AssetLog] V:\github\ShushNew\Shush\Content\VRCharacter.uasset: [Compiler] Message node  Release  must have a valid target or reference to self.
+[2022.11.16-12.40.48:831][987]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2022.11.16-12.41.02:711][ 22]BlueprintLog: New page: Compile VRCharacter
+[2022.11.16-12.41.02:787][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2022.11.16-12.41.23:862][ 42]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRCharacter" FILE="V:/github/ShushNew/Shush/Content/VRCharacter.uasset" SILENT=true
+[2022.11.16-12.41.23:876][ 42]LogSavePackage: Moving output files for package: /Game/VRCharacter
+[2022.11.16-12.41.23:877][ 42]LogSavePackage: Moving 'V:/github/ShushNew/Shush/Saved/VRCharacterBCDD94EA4334D9019D5028AE280199B6.tmp' to 'V:/github/ShushNew/Shush/Content/VRCharacter.uasset'
+[2022.11.16-12.41.23:893][ 42]AssetCheck: New page: Asset Save: VRCharacter
+[2022.11.16-12.41.23:893][ 42]LogContentValidation: Display: Validating Blueprint /Game/VRCharacter.VRCharacter
+[2022.11.16-12.41.28:111][480]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
