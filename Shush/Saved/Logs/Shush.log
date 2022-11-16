@@ -1198,3 +1198,5 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.11.16-12.45.30:291][940]LogCore: Display: AppLifetime: Application has entered foreground
 [2022.11.16-12.46.47:300][265]LogCore: Display: AppLifetime: Application will enter background
 [2022.11.16-12.46.51:971][279]LogCore: Display: AppLifetime: Application has entered foreground
+[2022.11.16-12.48.51:095][636]LogCore: Display: AppLifetime: Application will enter background
+[2022.11.16-12.48.51:095][636]LogCore: Display: AppLifetime: Application has entered foreground
